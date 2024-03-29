@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "title": "Turitors",
+    "category": "MERN Project",
+    "url": "https://turitors.web.app/",
+    "image": "https://i.ibb.co/M9cL0fJ/Image-03.jpg",
+    "description": "Users can add, edit, and remove assignments using Turitors. In order to provide effective assignment management and assessment experiences, evaluators can mark assignments and offer feedback. It utilizes React.js for dynamic interfaces, MongoDB for data storage, Express.js/Node.js for the backend, JWT for security, Firebase services, and Tailwind CSS for styling.",
+    "technology": "Reactjs, Tailwindcss, Node.js, Express.js, Mongodb, Firebase, JWT, TanStackQuery"
+  },
+  {
+    "id": 2,
+    "title": "Small Lakeview Cottage",
+    "category": "MERN Project",
+    "image": "https://i.ibb.co/kJRr3cW/Image-01.jpg",
+    "description": "Created a website with three roles: Users maintain profiles and read announcements, Admins control coupons and announcements, and Members handle payments. Simple communication for all parties! Safe login, effective rental agreements, flexible administrative tools, adaptable design, conquering obstacles, and ideal parallel filtering.",
+    "url": "https://small-lakeview-cottage-3ed78.web.app/",
+    "technology": "Reactjs, Tailwindcss, Node.js, Express.js, Mongodb, Firebase, JWT, React-Hook-form, TanStackQuery"
+  },
+  {
+    "id": 3,
+    "title": "partdo",
+    "category": "MERN Project",
+    "description": "Explore our React-based car marketplace. Log in for a personalized experience – add, update, or delete cars in your cart effortlessly. Enjoy a user-friendly interface, making your car-buying journey seamless and convenient. Discover, choose, and make your purchase with ease on our website.",
+    "image": "https://i.ibb.co/1MZjGX2/Image-02.jpg",
+    "url": "https://partdo-f054e.web.app/",
+    "technology": "Reactjs, Tailwindcss, Node.js, Express.js, Mongodb, Firebase, TanStackQuery"
+  },
+  {
+    "id": 4,
+    "title": "Atlanta",
+    "category": "MERN Project",
+    "description": "Explore our React-based car marketplace. Log in for a personalized experience – add, update, or delete cars in your cart effortlessly. Enjoy a user-friendly interface, making your car-buying journey seamless and convenient. Discover, choose, and make your purchase with ease on our website.",
+    "image": "https://i.ibb.co/GR8wsZV/atlanta.png",
+    "url": "https://atlanta-58928.web.app/",
+    "technology": "Reactjs, Tailwindcss, Node.js, Express.js, Mongodb, Firebase, JWT, TanStackQuery"
+  },
+  {
+    "id": 5,
+    "title": "Dashboard.",
+    "category": "Front end",
+    "url": "https://dashboarrakib.netlify.app/",
+    "image": "https://i.ibb.co/fMCP35f/MERN-Starc-Developer.png",
+    "description": "Static Dashboard",
+    "technology": "Reactjs, Tailwindcss"
+  },
+  {
+    "id": 6,
+    "title": "Event Management.",
+    "category": "Front end",
+    "url": "https://business-event-management-2023.netlify.app/",
+    "image": "https://i.ibb.co/fMCP35f/MERN-Starc-Developer.png",
+    "description": "Static Management website",
+    "technology": "Reactjs, Tailwindcss"
+  },
+  {
+    "id": 7,
+    "title": "Donation Campaign.",
+    "category": "Front end",
+    "url": "https://donation-campaign2023razzak.netlify.app/",
+    "image": "https://i.ibb.co/fMCP35f/MERN-Starc-Developer.png",
+    "description": "Donation Campaign website",
+    "technology": "HTML, CSS, JavaScript"
+  }
+]
